@@ -1,15 +1,13 @@
-Notes
-
-Day 1
+# Day 1
 
 ## What I Learned
 
-Read about Elixir Types
-Introduced to Atoms
-Reviewed Tuples
-Installed Homebrew on Mac (Package Manager)
-Installed asdf (The Multiple Runtime Version Manager)
-Installed Erlang & Elixir
+- Read about Elixir Types
+- Introduced to Atoms
+- Reviewed Tuples
+- Installed Homebrew on Mac (Package Manager)
+- Installed asdf (The Multiple Runtime Version Manager)
+- Installed Erlang & Elixir
 
 ## What Surprised Me
 
@@ -24,5 +22,4 @@ Nothing Yet
 {:ok, "Proof Generated"}
 {:error, "Missing File"}
 
-Day 2
 
