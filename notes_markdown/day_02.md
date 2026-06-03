@@ -9,6 +9,8 @@ Today I learned:
 - The pipe operator passes data through steps
 
 ## Notes
+- IO stands for input output
+- puts is short for put string (into the output stream)
 
 
 
